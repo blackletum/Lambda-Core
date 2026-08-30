@@ -1,4 +1,5 @@
 chapters
 {
-	1	"default"
+	1	"lc_forst_01a_bg"
+	2	"eientei_dreambg"
 }
