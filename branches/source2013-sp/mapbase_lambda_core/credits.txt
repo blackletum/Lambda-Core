@@ -1,3 +1,4 @@
+MODELS
 1. Model Information:
 * title:	bamboo
 * source:	https://sketchfab.com/3d-models/bamboo-a02bf0e3ffe44617ad49daf3cd94fe59
@@ -57,3 +58,20 @@ Artist: drawthemotional
 
 3. Voice Acting
 Artist: cfymai
+
+TEXTURES
+1. Japanese Cedar Planks
+Source: https://polyhaven.com/a/japanese_cedar_planks
+Author: 
+https://polyhaven.com/all?a=Charlotte%20Baglioni
+https://polyhaven.com/all?a=Rico%20Cilliers
+
+2. Lacquered Cherry Wood
+Source: https://polyhaven.com/a/lacquered_cherry_wood
+Author:
+https://polyhaven.com/all?a=Jenelle%20van%20Heerden
+https://polyhaven.com/all?a=Rico%20Cilliers
+
+3. White Maple Veneer
+Source: https://polyhaven.com/a/white_maple_veneer
+Author: https://polyhaven.com/all?a=Jenelle%20van%20Heerden
