@@ -4,8 +4,6 @@
 
 [![ModDB](https://img.shields.io/badge/ModDB-Lambda_Core-orange)](https://www.moddb.com/mods/lambda-core) 
 
-[![ModDB Ranks](https://button.moddb.com/popularity/medium/mods/72033.png")
-
 # Lambda Core
 
 *A fan-made, non-commercial crossover project built around environmental storytelling, atmospheric pacing, and experimental narrative structure.*
