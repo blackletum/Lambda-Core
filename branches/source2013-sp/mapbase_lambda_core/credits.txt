@@ -59,6 +59,7 @@ Artist: drawthemotional
 3. Voice Acting
 Artist: cfymai
 
+
 TEXTURES
 1. Japanese Cedar Planks
 Source: https://polyhaven.com/a/japanese_cedar_planks
@@ -78,3 +79,23 @@ License: CC0
 Source: https://polyhaven.com/a/white_maple_veneer
 Author: https://polyhaven.com/all?a=Jenelle%20van%20Heerden
 License: CC0
+
+4. Ikebana 02
+Source: https://openclipart.org/detail/340908/ikebana-02
+Author: https://openclipart.org/artist/j4p4n
+License: https://creativecommons.org/publicdomain/zero/1.0/
+
+5. Ikebana 03
+Source: https://openclipart.org/detail/340909/ikebana-03
+Author: https://openclipart.org/artist/j4p4n
+License: https://creativecommons.org/publicdomain/zero/1.0/
+
+6. Two Panel Nature Scene
+Source: https://openclipart.org/detail/350952/two-panel-nature-scene
+Author: https://openclipart.org/artist/j4p4n
+License: https://creativecommons.org/publicdomain/zero/1.0/
+
+7. Japanese Castle
+Source: https://openclipart.org/detail/295219/japanese-castle
+Author: https://openclipart.org/artist/j4p4n
+License: https://creativecommons.org/publicdomain/zero/1.0/
