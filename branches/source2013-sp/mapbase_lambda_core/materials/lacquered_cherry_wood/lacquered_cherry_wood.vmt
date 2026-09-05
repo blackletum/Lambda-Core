@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "lacquered_cherry_wood/lacquered_cherry_wood_diff_1k"
+	"$surfaceprop" "wood"
+	"$bumpmap" "lacquered_cherry_wood/lacquered_cherry_wood_nor_dx_1k"
+}
